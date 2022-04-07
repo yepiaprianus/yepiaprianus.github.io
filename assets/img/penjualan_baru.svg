@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1297.623" height="660.714" viewBox="0 0 1297.623 660.714">
+  <defs>
+    <filter id="Rectangle_105" x="0" y="29.935" width="1297.623" height="630.779" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="13.5" result="blur"/>
+      <feFlood flood-opacity="0.039"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect width="23.222" height="438.03" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect width="19.057" height="450.9" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_4994" data-name="Group 4994" transform="translate(-311.5 -1618.345)">
+    <g transform="matrix(1, 0, 0, 1, 311.5, 1618.34)" filter="url(#Rectangle_105)">
+      <rect id="Rectangle_105-2" data-name="Rectangle 105" width="1216.623" height="549.779" rx="25" transform="translate(40.5 66.44)" fill="#fff"/>
+    </g>
+    <rect id="Rectangle_108" data-name="Rectangle 108" width="904" height="69" transform="translate(654 1922)" fill="#fcfcfc"/>
+    <rect id="Rectangle_112" data-name="Rectangle 112" width="904" height="69" transform="translate(654 1784)" fill="#fcfcfc"/>
+    <rect id="Rectangle_110" data-name="Rectangle 110" width="904" height="69" transform="translate(654 2060)" fill="#fcfcfc"/>
+    <path id="Rectangle_106" data-name="Rectangle 106" d="M25,0H283.667a0,0,0,0,1,0,0V549.779a0,0,0,0,1,0,0H25a25,25,0,0,1-25-25V25A25,25,0,0,1,25,0Z" transform="translate(352 1684.78)" fill="#f05638"/>
+    <text id="Waktu_pembayaran" data-name="Waktu pembayaran" transform="translate(412 1754.628)" fill="#fff" font-size="20" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Waktu pembayaran</tspan></text>
+    <text id="Tanpa_DP_pembayaran_di_akhir" data-name="Tanpa DP, pembayaran di akhir" transform="translate(730.253 1752.628)" font-size="20" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Tanpa DP, pembayaran di akhir</tspan></text>
+    <text id="_1_hari_jadi" data-name="1 hari jadi" transform="translate(730.253 1825.5)" font-size="20" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">1 hari jadi</tspan></text>
+    <text id="Harga_Mulai_dari_50_Ribu" data-name="Harga Mulai dari 50 Ribu" transform="translate(730.253 1895)" font-size="20" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Harga Mulai dari 50 Ribu</tspan></text>
+    <text id="Gratis" transform="translate(730.253 2033)" font-size="20" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Gratis</tspan></text>
+    <text id="_3X_Revisi" data-name="3X Revisi" transform="translate(730.253 2101.5)" font-size="20" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">3X Revisi</tspan></text>
+    <text id="Klien_mendapatkan_video_proses_olah_data_dan_hasil_olah_data." data-name="Klien mendapatkan video  
+proses olah data dan 
+hasil olah data." transform="translate(730.253 2162.5)" font-size="20" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0" xml:space="preserve">Klien mendapatkan video  </tspan><tspan x="0" y="30">proses olah data dan </tspan><tspan x="0" y="60">hasil olah data.</tspan></text>
+    <text id="Transfer_Bank_Shopee_Fastwork_Bertemu_Langsung_OVO_GOPAY" data-name="Transfer Bank, Shopee, Fastwork, 
+Bertemu Langsung, OVO, GOPAY" transform="translate(730.253 1954)" font-size="20" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Transfer Bank, Shopee, Fastwork, </tspan><tspan x="0" y="30">Bertemu Langsung, OVO, GOPAY</tspan></text>
+    <text id="Kecepatan" transform="translate(412 1825.5)" fill="#fff" font-size="20" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Kecepatan</tspan></text>
+    <text id="Harga" transform="translate(412 1895)" fill="#fff" font-size="20" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Harga</tspan></text>
+    <text id="Transaksi" transform="translate(412 1954)" fill="#fff" font-size="20" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Transaksi</tspan></text>
+    <text id="konsultasi" transform="translate(412 2033)" fill="#fff" font-size="20" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">konsultasi</tspan></text>
+    <text id="Revisi" transform="translate(412 2101.5)" fill="#fff" font-size="20" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Revisi</tspan></text>
+    <text id="Penjelasan_Materi" data-name="Penjelasan Materi" transform="translate(412 2164.5)" fill="#fff" font-size="20" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Penjelasan Materi</tspan></text>
+    <text id="Dengan_DP_bayar_full_di_awal" data-name="Dengan DP/ bayar full di awal" transform="translate(1198.276 1752.628)" font-size="20" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Dengan DP/ bayar full di awal</tspan></text>
+    <text id="Lebih_dari_1_hari" data-name="Lebih dari 1 hari" transform="translate(1198.276 1825.5)" font-size="20" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Lebih dari 1 hari</tspan></text>
+    <text id="Harga_Lebih_Mahal" data-name="Harga Lebih Mahal" transform="translate(1198.276 1895)" font-size="20" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Harga Lebih Mahal</tspan></text>
+    <text id="Konsultasi_berbayar" data-name="Konsultasi berbayar" transform="translate(1198.276 2033)" font-size="20" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Konsultasi berbayar</tspan></text>
+    <text id="_1X_Revisi" data-name="1X Revisi" transform="translate(1198.276 2101.5)" font-size="20" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">1X Revisi</tspan></text>
+    <text id="Hanya_mengirimkan_hasil_olah_data" data-name="Hanya mengirimkan hasil 
+olah data" transform="translate(1198.276 2162.5)" font-size="20" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Hanya mengirimkan hasil </tspan><tspan x="0" y="30">olah data</tspan></text>
+    <text id="Hanya_Transfer_Bank" data-name="Hanya Transfer Bank" transform="translate(1198.276 1954)" font-size="20" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Hanya Transfer Bank</tspan></text>
+    <text id="Viola" transform="translate(730.253 1652.345)" font-size="32" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Viola</tspan></text>
+    <text id="Jasa_Lain" data-name="Jasa Lain" transform="translate(1198.276 1652.345)" font-size="32" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Jasa Lain</tspan></text>
+    <g id="Repeat_Grid_2" data-name="Repeat Grid 2" transform="translate(674.022 1736.97)" clip-path="url(#clip-path)">
+      <g transform="translate(-589.022 -1617.97)">
+        <path id="Icon_awesome-check" data-name="Icon awesome-check" d="M7.887,21.554.34,14.007a1.161,1.161,0,0,1,0-1.642l1.642-1.642a1.161,1.161,0,0,1,1.642,0l5.084,5.084L19.6,4.917a1.161,1.161,0,0,1,1.642,0l1.642,1.642a1.161,1.161,0,0,1,0,1.642L9.529,21.554A1.161,1.161,0,0,1,7.887,21.554Z" transform="translate(589.022 1613.393)" fill="#b4c000"/>
+      </g>
+      <g transform="translate(-589.022 -1547.97)">
+        <path id="Icon_awesome-check-2" data-name="Icon awesome-check" d="M7.887,21.554.34,14.007a1.161,1.161,0,0,1,0-1.642l1.642-1.642a1.161,1.161,0,0,1,1.642,0l5.084,5.084L19.6,4.917a1.161,1.161,0,0,1,1.642,0l1.642,1.642a1.161,1.161,0,0,1,0,1.642L9.529,21.554A1.161,1.161,0,0,1,7.887,21.554Z" transform="translate(589.022 1613.393)" fill="#b4c000"/>
+      </g>
+      <g transform="translate(-589.022 -1477.97)">
+        <path id="Icon_awesome-check-3" data-name="Icon awesome-check" d="M7.887,21.554.34,14.007a1.161,1.161,0,0,1,0-1.642l1.642-1.642a1.161,1.161,0,0,1,1.642,0l5.084,5.084L19.6,4.917a1.161,1.161,0,0,1,1.642,0l1.642,1.642a1.161,1.161,0,0,1,0,1.642L9.529,21.554A1.161,1.161,0,0,1,7.887,21.554Z" transform="translate(589.022 1613.393)" fill="#b4c000"/>
+      </g>
+      <g transform="translate(-589.022 -1407.97)">
+        <path id="Icon_awesome-check-4" data-name="Icon awesome-check" d="M7.887,21.554.34,14.007a1.161,1.161,0,0,1,0-1.642l1.642-1.642a1.161,1.161,0,0,1,1.642,0l5.084,5.084L19.6,4.917a1.161,1.161,0,0,1,1.642,0l1.642,1.642a1.161,1.161,0,0,1,0,1.642L9.529,21.554A1.161,1.161,0,0,1,7.887,21.554Z" transform="translate(589.022 1613.393)" fill="#b4c000"/>
+      </g>
+      <g transform="translate(-589.022 -1337.97)">
+        <path id="Icon_awesome-check-5" data-name="Icon awesome-check" d="M7.887,21.554.34,14.007a1.161,1.161,0,0,1,0-1.642l1.642-1.642a1.161,1.161,0,0,1,1.642,0l5.084,5.084L19.6,4.917a1.161,1.161,0,0,1,1.642,0l1.642,1.642a1.161,1.161,0,0,1,0,1.642L9.529,21.554A1.161,1.161,0,0,1,7.887,21.554Z" transform="translate(589.022 1613.393)" fill="#b4c000"/>
+      </g>
+      <g transform="translate(-589.022 -1267.97)">
+        <path id="Icon_awesome-check-6" data-name="Icon awesome-check" d="M7.887,21.554.34,14.007a1.161,1.161,0,0,1,0-1.642l1.642-1.642a1.161,1.161,0,0,1,1.642,0l5.084,5.084L19.6,4.917a1.161,1.161,0,0,1,1.642,0l1.642,1.642a1.161,1.161,0,0,1,0,1.642L9.529,21.554A1.161,1.161,0,0,1,7.887,21.554Z" transform="translate(589.022 1613.393)" fill="#b4c000"/>
+      </g>
+      <g transform="translate(-589.022 -1197.97)">
+        <path id="Icon_awesome-check-7" data-name="Icon awesome-check" d="M7.887,21.554.34,14.007a1.161,1.161,0,0,1,0-1.642l1.642-1.642a1.161,1.161,0,0,1,1.642,0l5.084,5.084L19.6,4.917a1.161,1.161,0,0,1,1.642,0l1.642,1.642a1.161,1.161,0,0,1,0,1.642L9.529,21.554A1.161,1.161,0,0,1,7.887,21.554Z" transform="translate(589.022 1613.393)" fill="#b4c000"/>
+      </g>
+    </g>
+    <g id="Repeat_Grid_3" data-name="Repeat Grid 3" transform="translate(1153.547 1736.1)" clip-path="url(#clip-path-2)">
+      <g transform="translate(-1068.547 -1617.1)">
+        <path id="Icon_metro-cross" data-name="Icon metro-cross" d="M21.454,17.238h0l-5.781-5.781,5.781-5.781h0a.6.6,0,0,0,0-.842L18.723,2.1a.6.6,0,0,0-.842,0h0L12.1,7.883,6.318,2.1h0a.6.6,0,0,0-.842,0L2.745,4.833a.6.6,0,0,0,0,.842h0l5.781,5.781L2.745,17.238h0a.6.6,0,0,0,0,.842l2.731,2.731a.6.6,0,0,0,.842,0h0L12.1,15.03l5.781,5.781h0a.6.6,0,0,0,.842,0l2.731-2.731a.6.6,0,0,0,0-.842Z" transform="translate(1065.976 1615.172)" fill="red"/>
+      </g>
+      <g transform="translate(-1068.547 -1547.1)">
+        <path id="Icon_metro-cross-2" data-name="Icon metro-cross" d="M21.454,17.238h0l-5.781-5.781,5.781-5.781h0a.6.6,0,0,0,0-.842L18.723,2.1a.6.6,0,0,0-.842,0h0L12.1,7.883,6.318,2.1h0a.6.6,0,0,0-.842,0L2.745,4.833a.6.6,0,0,0,0,.842h0l5.781,5.781L2.745,17.238h0a.6.6,0,0,0,0,.842l2.731,2.731a.6.6,0,0,0,.842,0h0L12.1,15.03l5.781,5.781h0a.6.6,0,0,0,.842,0l2.731-2.731a.6.6,0,0,0,0-.842Z" transform="translate(1065.976 1615.172)" fill="red"/>
+      </g>
+      <g transform="translate(-1068.547 -1477.1)">
+        <path id="Icon_metro-cross-3" data-name="Icon metro-cross" d="M21.454,17.238h0l-5.781-5.781,5.781-5.781h0a.6.6,0,0,0,0-.842L18.723,2.1a.6.6,0,0,0-.842,0h0L12.1,7.883,6.318,2.1h0a.6.6,0,0,0-.842,0L2.745,4.833a.6.6,0,0,0,0,.842h0l5.781,5.781L2.745,17.238h0a.6.6,0,0,0,0,.842l2.731,2.731a.6.6,0,0,0,.842,0h0L12.1,15.03l5.781,5.781h0a.6.6,0,0,0,.842,0l2.731-2.731a.6.6,0,0,0,0-.842Z" transform="translate(1065.976 1615.172)" fill="red"/>
+      </g>
+      <g transform="translate(-1068.547 -1407.1)">
+        <path id="Icon_metro-cross-4" data-name="Icon metro-cross" d="M21.454,17.238h0l-5.781-5.781,5.781-5.781h0a.6.6,0,0,0,0-.842L18.723,2.1a.6.6,0,0,0-.842,0h0L12.1,7.883,6.318,2.1h0a.6.6,0,0,0-.842,0L2.745,4.833a.6.6,0,0,0,0,.842h0l5.781,5.781L2.745,17.238h0a.6.6,0,0,0,0,.842l2.731,2.731a.6.6,0,0,0,.842,0h0L12.1,15.03l5.781,5.781h0a.6.6,0,0,0,.842,0l2.731-2.731a.6.6,0,0,0,0-.842Z" transform="translate(1065.976 1615.172)" fill="red"/>
+      </g>
+      <g transform="translate(-1068.547 -1337.1)">
+        <path id="Icon_metro-cross-5" data-name="Icon metro-cross" d="M21.454,17.238h0l-5.781-5.781,5.781-5.781h0a.6.6,0,0,0,0-.842L18.723,2.1a.6.6,0,0,0-.842,0h0L12.1,7.883,6.318,2.1h0a.6.6,0,0,0-.842,0L2.745,4.833a.6.6,0,0,0,0,.842h0l5.781,5.781L2.745,17.238h0a.6.6,0,0,0,0,.842l2.731,2.731a.6.6,0,0,0,.842,0h0L12.1,15.03l5.781,5.781h0a.6.6,0,0,0,.842,0l2.731-2.731a.6.6,0,0,0,0-.842Z" transform="translate(1065.976 1615.172)" fill="red"/>
+      </g>
+      <g transform="translate(-1068.547 -1267.1)">
+        <path id="Icon_metro-cross-6" data-name="Icon metro-cross" d="M21.454,17.238h0l-5.781-5.781,5.781-5.781h0a.6.6,0,0,0,0-.842L18.723,2.1a.6.6,0,0,0-.842,0h0L12.1,7.883,6.318,2.1h0a.6.6,0,0,0-.842,0L2.745,4.833a.6.6,0,0,0,0,.842h0l5.781,5.781L2.745,17.238h0a.6.6,0,0,0,0,.842l2.731,2.731a.6.6,0,0,0,.842,0h0L12.1,15.03l5.781,5.781h0a.6.6,0,0,0,.842,0l2.731-2.731a.6.6,0,0,0,0-.842Z" transform="translate(1065.976 1615.172)" fill="red"/>
+      </g>
+      <g transform="translate(-1068.547 -1197.1)">
+        <path id="Icon_metro-cross-7" data-name="Icon metro-cross" d="M21.454,17.238h0l-5.781-5.781,5.781-5.781h0a.6.6,0,0,0,0-.842L18.723,2.1a.6.6,0,0,0-.842,0h0L12.1,7.883,6.318,2.1h0a.6.6,0,0,0-.842,0L2.745,4.833a.6.6,0,0,0,0,.842h0l5.781,5.781L2.745,17.238h0a.6.6,0,0,0,0,.842l2.731,2.731a.6.6,0,0,0,.842,0h0L12.1,15.03l5.781,5.781h0a.6.6,0,0,0,.842,0l2.731-2.731a.6.6,0,0,0,0-.842Z" transform="translate(1065.976 1615.172)" fill="red"/>
+      </g>
+    </g>
+  </g>
+</svg>

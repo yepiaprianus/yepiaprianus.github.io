@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1439.309" height="541.779" viewBox="0 0 1439.309 541.779">
+  <defs>
+    <filter id="Rectangle_105" x="0" y="0" width="1439.309" height="541.779" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="13.5" result="blur"/>
+      <feFlood flood-opacity="0.039"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_4937" data-name="Group 4937" transform="translate(-240.5 -317.5)">
+    <g id="Group_4935" data-name="Group 4935" transform="translate(28)">
+      <g transform="matrix(1, 0, 0, 1, 212.5, 317.5)" filter="url(#Rectangle_105)">
+        <rect id="Rectangle_105-2" data-name="Rectangle 105" width="1358.309" height="460.779" rx="25" transform="translate(40.5 36.5)" fill="#fff"/>
+      </g>
+      <rect id="Rectangle_112" data-name="Rectangle 112" width="1325.306" height="122" transform="translate(268.381 422.74)" fill="#fcfcfc"/>
+      <rect id="Rectangle_352" data-name="Rectangle 352" width="1325.306" height="137" transform="translate(268.381 664.7)" fill="#fcfcfc"/>
+      <text id="Validitas_dan_Reliabilitas" data-name="Validitas dan 
+Reliabilitas" transform="translate(313 477.24)" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Validitas dan </tspan><tspan x="0" y="27">Reliabilitas</tspan></text>
+      <text id="_1_variabel" data-name="1 variabel" transform="translate(583.252 490.24)" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">1 variabel</tspan></text>
+      <text id="Keterangan" transform="translate(583.252 401)" font-size="20" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">Keterangan</tspan></text>
+      <text id="Harga_Satuan" data-name="Harga Satuan" transform="translate(313 401)" font-size="20" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">Harga Satuan</tspan></text>
+      <text id="all_in_normalitas_linearitas_multikolinearitas_autokorelasi_heterokedasitas" data-name="all in= normalitas, linearitas, 
+multikolinearitas, 
+autokorelasi, heterokedasitas" transform="translate(583.252 584.72)" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">all in= normalitas, linearitas, </tspan><tspan x="0" y="27">multikolinearitas, </tspan><tspan x="0" y="54">autokorelasi, heterokedasitas</tspan></text>
+      <text id="Rp._75.000" data-name="Rp. 75.000" transform="translate(1031 611.22)" fill="#1f6ecf" font-size="18" font-family="Poppins-SemiBoldItalic, Poppins" font-weight="600" font-style="italic"><tspan x="0" y="0">Rp. 75.000</tspan></text>
+      <text id="Hasil_olah_data_dan_interpretasi_olah_data" data-name="Hasil olah data dan 
+interpretasi olah data" transform="translate(1303.276 596.22)" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Hasil olah data dan </tspan><tspan x="0" y="27">interpretasi olah data</tspan></text>
+      <text id="Regresi_sederhana_korelasi_product_moment_chi_square_anova_independent_sample_t_test_paired_t-test_Wilcoxon_path_analysis_dll" data-name="Regresi sederhana/korelasi product 
+moment/chi square/anova/ independent 
+sample t test/ paired t-test/Wilcoxon/
+path analysis/dll" transform="translate(583.252 696.72)" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Regresi sederhana/korelasi product </tspan><tspan x="0" y="27">moment/chi square/anova/ independent </tspan><tspan x="0" y="54">sample t test/ paired t-test/Wilcoxon/</tspan><tspan x="0" y="81">path analysis/dll</tspan></text>
+      <text id="_2_variabel_75.000_3_variabel_100.000_4_variabel_125.000_4_variabel_150.000" data-name="2 variabel = 75.000
+3 variabel = 100.000
+4 variabel = 125.000
+&gt; 4 variabel = 150.000" transform="translate(1031 696.72)" fill="#1f6ecf" font-size="18" font-family="Poppins-SemiBoldItalic, Poppins" font-weight="600" font-style="italic"><tspan x="0" y="0">2 variabel = 75.000</tspan><tspan x="0" y="27">3 variabel = 100.000</tspan><tspan x="0" y="54">4 variabel = 125.000</tspan><tspan x="0" y="81">&gt; 4 variabel = 150.000</tspan></text>
+      <text id="Asumsi_Klasik" data-name="Asumsi Klasik" transform="translate(313 584.72)" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Asumsi Klasik</tspan></text>
+      <text id="Uji_Hipotesis_" data-name="Uji Hipotesis " transform="translate(313 702.22)" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Uji Hipotesis </tspan></text>
+      <text id="Rp._50.000" data-name="Rp. 50.000" transform="translate(1031 490.24)" fill="#1f6ecf" font-size="18" font-family="Poppins-SemiBoldItalic, Poppins" font-weight="600" font-style="italic"><tspan x="0" y="0">Rp. 50.000</tspan></text>
+      <text id="Harga" transform="translate(1031 401)" font-size="20" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">Harga</tspan></text>
+      <text id="Yang_Didapat" data-name="Yang Didapat" transform="translate(1303.276 401)" font-size="20" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">Yang Didapat</tspan></text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="428.252" height="2164.817" viewBox="0 0 428.252 2164.817">
+  <defs>
+    <filter id="Rectangle_105" x="0" y="0" width="428.252" height="821.817" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="13.5" result="blur"/>
+      <feFlood flood-opacity="0.039"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_373" x="0" y="834" width="428.252" height="1330.817" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="13.5" result="blur-2"/>
+      <feFlood flood-opacity="0.039"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_4997" data-name="Group 4997" transform="translate(26.5 -2689.5)">
+    <g transform="matrix(1, 0, 0, 1, -26.5, 2689.5)" filter="url(#Rectangle_105)">
+      <rect id="Rectangle_105-2" data-name="Rectangle 105" width="347.252" height="740.817" rx="25" transform="translate(40.5 36.5)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -26.5, 2689.5)" filter="url(#Rectangle_373)">
+      <rect id="Rectangle_373-2" data-name="Rectangle 373" width="347.252" height="1249.817" rx="25" transform="translate(40.5 870.5)" fill="#fff"/>
+    </g>
+    <rect id="Rectangle_346" data-name="Rectangle 346" width="328" height="187" transform="translate(24 2812)" fill="#fcfcfc"/>
+    <rect id="Rectangle_374" data-name="Rectangle 374" width="328" height="187" transform="translate(24 3646)" fill="#fcfcfc"/>
+    <rect id="Rectangle_350" data-name="Rectangle 350" width="328" height="279" transform="translate(24 3168.273)" fill="#fcfcfc"/>
+    <rect id="Rectangle_375" data-name="Rectangle 375" width="328" height="279" transform="translate(24 4002.273)" fill="#fcfcfc"/>
+    <rect id="Rectangle_376" data-name="Rectangle 376" width="328" height="164" transform="translate(24 4458.705)" fill="#fcfcfc"/>
+    <text id="Basic_300.000" data-name="Basic – 300.000" transform="translate(110 2773)" font-size="20" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">Basic – 300.000</tspan></text>
+    <text id="Basic_400.000" data-name="Basic – 400.000" transform="translate(110 3607)" font-size="20" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">Basic – 400.000</tspan></text>
+    <text id="Hasil_olah_data_Kamu_akan_mendapatkan_hasil_olah_data_dalam_word_bab_4_output_spss_dan_worksheet_spss." data-name="Hasil olah data 
+Kamu akan 
+mendapatkan hasil olah data dalam word/bab 4, output spss dan worksheet
+spss." transform="translate(49 2821.273)" font-size="18" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="19">Hasil olah data </tspan><tspan font-family="Poppins-Regular, Poppins" font-weight="400"><tspan x="0" y="46">Kamu akan </tspan><tspan x="0" y="73">mendapatkan hasil olah data </tspan><tspan x="0" y="100">dalam word/bab 4, output </tspan><tspan x="0" y="127">spss dan worksheet</tspan><tspan x="0" y="154">spss.</tspan></tspan></text>
+    <text id="Hasil_olah_data_Kamu_akan_mendapatkan_hasil_olah_data_dalam_word_bab_4_output_spss_dan_worksheet_spss.-2" data-name="Hasil olah data 
+Kamu akan 
+mendapatkan hasil olah data dalam word/bab 4, output spss dan worksheet
+spss." transform="translate(49 3655.273)" font-size="18" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="19">Hasil olah data </tspan><tspan font-family="Poppins-Regular, Poppins" font-weight="400"><tspan x="0" y="46">Kamu akan </tspan><tspan x="0" y="73">mendapatkan hasil olah data </tspan><tspan x="0" y="100">dalam word/bab 4, output </tspan><tspan x="0" y="127">spss dan worksheet</tspan><tspan x="0" y="154">spss.</tspan></tspan></text>
+    <text id="Penyusunan_interpretasi_hasil_olah_data_akan_disusun_secara_sistematis_di_bab_4." data-name="Penyusunan 
+interpretasi hasil 
+olah data akan disusun secara sistematis di bab 4." transform="translate(49 3024.273)" font-size="20" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="21">Penyusunan </tspan><tspan font-family="Poppins-Regular, Poppins" font-weight="400"><tspan x="0" y="51">interpretasi hasil </tspan><tspan x="0" y="81">olah data akan disusun </tspan><tspan x="0" y="111">secara sistematis di bab 4.</tspan></tspan></text>
+    <text id="Penyusunan_interpretasi_hasil_olah_data_akan_disusun_secara_sistematis_di_bab_4.-2" data-name="Penyusunan 
+interpretasi hasil 
+olah data akan disusun secara sistematis di bab 4." transform="translate(49 3858.273)" font-size="20" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="21">Penyusunan </tspan><tspan font-family="Poppins-Regular, Poppins" font-weight="400"><tspan x="0" y="51">interpretasi hasil </tspan><tspan x="0" y="81">olah data akan disusun </tspan><tspan x="0" y="111">secara sistematis di bab 4.</tspan></tspan></text>
+    <text id="Konsultasi_dan_bimbingan_Kamu_bisa_berkonsultasi_mengenai_olah_datamu_dan_mendapat_bimbingan_yang_membantu_kamu_dalam_memahami_hasil_olah_data." data-name="Konsultasi dan bimbingan
+Kamu bisa berkonsultasi 
+mengenai olah datamu dan 
+mendapat bimbingan 
+yang membantu kamu dalam memahami hasil olah  data." transform="translate(49 3185.773)" font-size="20" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="21">Konsultasi dan bimbingan</tspan><tspan font-family="Poppins-Regular, Poppins" font-weight="400"><tspan x="0" y="51">Kamu bisa berkonsultasi </tspan><tspan x="0" y="81">mengenai olah datamu </tspan><tspan x="0" y="111">dan </tspan><tspan x="0" y="141">mendapat bimbingan </tspan><tspan x="0" y="171">yang membantu kamu </tspan><tspan x="0" y="201">dalam memahami hasil </tspan><tspan x="0" y="231" xml:space="preserve">olah  data.</tspan></tspan></text>
+    <text id="Konsultasi_dan_bimbingan_Kamu_bisa_berkonsultasi_mengenai_olah_datamu_dan_mendapat_bimbingan_yang_membantu_kamu_dalam_memahami_hasil_olah_data.-2" data-name="Konsultasi dan bimbingan
+Kamu bisa berkonsultasi 
+mengenai olah datamu dan 
+mendapat bimbingan 
+yang membantu kamu dalam memahami hasil olah  data." transform="translate(49 4019.773)" font-size="20" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="21">Konsultasi dan bimbingan</tspan><tspan font-family="Poppins-Regular, Poppins" font-weight="400"><tspan x="0" y="51">Kamu bisa berkonsultasi </tspan><tspan x="0" y="81">mengenai olah datamu </tspan><tspan x="0" y="111">dan </tspan><tspan x="0" y="141">mendapat bimbingan </tspan><tspan x="0" y="171">yang membantu kamu </tspan><tspan x="0" y="201">dalam memahami hasil </tspan><tspan x="0" y="231" xml:space="preserve">olah  data.</tspan></tspan></text>
+    <text id="Treatment_data_Data_yang_bermasalah_akan_dibantu_agar_bisa_sesuai_dengan_kebutuhanmu_" data-name="Treatment data
+Data yang bermasalah akan dibantu agar bisa sesuai dengan kebutuhanmu
+" transform="translate(49 4293.547)" font-size="20" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="21">Treatment data</tspan><tspan font-family="Poppins-Regular, Poppins" font-weight="400"><tspan x="0" y="51">Data yang bermasalah </tspan><tspan x="0" y="81">akan dibantu agar bisa </tspan><tspan x="0" y="111">sesuai dengan </tspan><tspan x="0" y="141">kebutuhanmu</tspan></tspan></text>
+    <text id="Video_tutorial_Kamu_akan_mendapatkan_video_tutorial_mengenai_proses_olah_data_kamu_" data-name="Video tutorial
+Kamu akan mendapatkan video tutorial mengenai proses olah data kamu
+" transform="translate(49 4484.841)" font-size="20" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="21">Video tutorial</tspan><tspan font-family="Poppins-Regular, Poppins" font-weight="400"><tspan x="0" y="51">Kamu akan mendapatkan </tspan><tspan x="0" y="81">video tutorial mengenai </tspan><tspan x="0" y="111">proses olah data kamu</tspan></tspan></text>
+    <text id="Deadline_Lama_pengerjaan_olah_data_kamu_hanya_satu_hari_jadi_" data-name="Deadline
+Lama pengerjaan olah data kamu hanya satu hari jadi
+" transform="translate(49 4650.478)" font-size="20" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="21">Deadline</tspan><tspan font-family="Poppins-Regular, Poppins" font-weight="400"><tspan x="0" y="51">Lama pengerjaan olah </tspan><tspan x="0" y="81">data kamu hanya satu </tspan><tspan x="0" y="111">hari jadi</tspan></tspan></text>
+  </g>
+</svg>

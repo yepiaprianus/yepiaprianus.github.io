@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1439.31" height="1409.817" viewBox="0 0 1439.31 1409.817">
+  <defs>
+    <filter id="Rectangle_105" x="0" y="0" width="1439.31" height="1409.817" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="13.5" result="blur"/>
+      <feFlood flood-opacity="0.039"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect width="23.222" height="521.515" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect width="23.222" height="1067.03" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_4999" data-name="Group 4999" transform="translate(-240.5 -439.5)">
+    <g transform="matrix(1, 0, 0, 1, 240.5, 439.5)" filter="url(#Rectangle_105)">
+      <rect id="Rectangle_105-2" data-name="Rectangle 105" width="1358.31" height="1328.817" rx="25" transform="translate(40.5 36.5)" fill="#fff"/>
+    </g>
+    <rect id="Rectangle_346" data-name="Rectangle 346" width="1311.108" height="210.273" transform="translate(310.578 580)" fill="#fcfcfc"/>
+    <rect id="Rectangle_350" data-name="Rectangle 350" width="1311.108" height="210.273" transform="translate(310.578 969.547)" fill="#fcfcfc"/>
+    <rect id="Rectangle_351" data-name="Rectangle 351" width="1311.108" height="210.273" transform="translate(310.578 1390.705)" fill="#fcfcfc"/>
+    <text id="Basic_300.000" data-name="Basic – 300.000" transform="translate(804 523)" font-size="20" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">Basic – 300.000</tspan></text>
+    <text id="Harga_Paket" data-name="Harga Paket" transform="translate(341 523)" font-size="20" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">Harga Paket</tspan></text>
+    <text id="Premium_400.000" data-name="Premium – 400.000" transform="translate(1205 523)" font-size="20" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">Premium – 400.000</tspan></text>
+    <text id="Hasil_olah_data_Kamu_akan_mendapatkan_hasil_olah_data_dalam_word_bab_4_output_spss_dan_worksheet_spss." data-name="Hasil olah data 
+Kamu akan 
+mendapatkan hasil olah data dalam word/bab 4, output spss dan worksheet
+spss." transform="translate(341 589.273)" font-size="20" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="21">Hasil olah data </tspan><tspan font-family="Poppins-Regular, Poppins" font-weight="400"><tspan x="0" y="51">Kamu akan </tspan><tspan x="0" y="81">mendapatkan hasil olah data dalam </tspan><tspan x="0" y="111">word/bab 4, output spss dan worksheet</tspan><tspan x="0" y="141">spss.</tspan></tspan></text>
+    <text id="Penyusunan_interpretasi_hasil_olah_data_akan_disusun_secara_sistematis_di_bab_4." data-name="Penyusunan 
+interpretasi hasil 
+olah data akan disusun secara sistematis di bab 4." transform="translate(341 812.273)" font-size="20" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="21">Penyusunan </tspan><tspan font-family="Poppins-Regular, Poppins" font-weight="400"><tspan x="0" y="51">interpretasi hasil </tspan><tspan x="0" y="81">olah data akan disusun secara </tspan><tspan x="0" y="111">sistematis di bab 4.</tspan></tspan></text>
+    <text id="Konsultasi_dan_bimbingan_Kamu_bisa_berkonsultasi_mengenai_olah_datamu_dan_mendapat_bimbingan_yang_membantu_kamu_dalam_memahami_hasil_olah_data.." data-name="Konsultasi dan bimbingan
+Kamu bisa berkonsultasi 
+mengenai olah datamu dan 
+mendapat bimbingan 
+yang membantu kamu dalam memahami hasil olah  data.." transform="translate(341 984.184)" font-size="20" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="21">Konsultasi dan bimbingan</tspan><tspan font-family="Poppins-Regular, Poppins" font-weight="400"><tspan x="0" y="51">Kamu bisa berkonsultasi </tspan><tspan x="0" y="81">mengenai olah datamu dan </tspan><tspan x="0" y="111">mendapat bimbingan </tspan><tspan x="0" y="141">yang membantu kamu dalam </tspan><tspan x="0" y="171" xml:space="preserve">memahami hasil olah  data..</tspan></tspan></text>
+    <text id="Treatment_data_Data_yang_bermasalah_akan_dibantu_agar_bisa_sesuai_dengan_kebutuhanmu_" data-name="Treatment data
+Data yang bermasalah akan dibantu agar bisa sesuai dengan kebutuhanmu
+" transform="translate(341 1243.547)" font-size="20" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="21">Treatment data</tspan><tspan font-family="Poppins-Regular, Poppins" font-weight="400"><tspan x="0" y="51">Data yang bermasalah akan dibantu </tspan><tspan x="0" y="81">agar bisa sesuai dengan kebutuhanmu</tspan></tspan></text>
+    <text id="Video_tutorial_Kamu_akan_mendapatkan_video_tutorial_mengenai_proses_olah_data_kamu_" data-name="Video tutorial
+Kamu akan mendapatkan video tutorial mengenai proses olah data kamu
+" transform="translate(341 1448.841)" font-size="20" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="21">Video tutorial</tspan><tspan font-family="Poppins-Regular, Poppins" font-weight="400"><tspan x="0" y="51">Kamu akan mendapatkan video tutorial </tspan><tspan x="0" y="81">mengenai proses olah data kamu</tspan></tspan></text>
+    <text id="Deadline_Lama_pengerjaan_olah_data_kamu_hanya_satu_hari_jadi_" data-name="Deadline
+Lama pengerjaan olah data kamu hanya satu hari jadi
+" transform="translate(341 1641.547)" font-size="20" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="21">Deadline</tspan><tspan font-family="Poppins-Regular, Poppins" font-weight="400"><tspan x="0" y="51">Lama pengerjaan olah data kamu </tspan><tspan x="0" y="81">hanya satu hari jadi</tspan></tspan></text>
+    <g id="Repeat_Grid_4" data-name="Repeat Grid 4" transform="translate(871 680.273)" clip-path="url(#clip-path)">
+      <g transform="translate(-589.022 -1617.97)">
+        <path id="Icon_awesome-check" data-name="Icon awesome-check" d="M7.887,21.554.34,14.007a1.161,1.161,0,0,1,0-1.642l1.642-1.642a1.161,1.161,0,0,1,1.642,0l5.084,5.084L19.6,4.917a1.161,1.161,0,0,1,1.642,0l1.642,1.642a1.161,1.161,0,0,1,0,1.642L9.529,21.554A1.161,1.161,0,0,1,7.887,21.554Z" transform="translate(589.022 1613.393)" fill="#b4c000"/>
+      </g>
+      <g transform="translate(-589.022 -1416.97)">
+        <path id="Icon_awesome-check-2" data-name="Icon awesome-check" d="M7.887,21.554.34,14.007a1.161,1.161,0,0,1,0-1.642l1.642-1.642a1.161,1.161,0,0,1,1.642,0l5.084,5.084L19.6,4.917a1.161,1.161,0,0,1,1.642,0l1.642,1.642a1.161,1.161,0,0,1,0,1.642L9.529,21.554A1.161,1.161,0,0,1,7.887,21.554Z" transform="translate(589.022 1613.393)" fill="#b4c000"/>
+      </g>
+      <g transform="translate(-589.022 -1215.97)">
+        <path id="Icon_awesome-check-3" data-name="Icon awesome-check" d="M7.887,21.554.34,14.007a1.161,1.161,0,0,1,0-1.642l1.642-1.642a1.161,1.161,0,0,1,1.642,0l5.084,5.084L19.6,4.917a1.161,1.161,0,0,1,1.642,0l1.642,1.642a1.161,1.161,0,0,1,0,1.642L9.529,21.554A1.161,1.161,0,0,1,7.887,21.554Z" transform="translate(589.022 1613.393)" fill="#b4c000"/>
+      </g>
+    </g>
+    <g id="Repeat_Grid_5" data-name="Repeat Grid 5" transform="translate(1291 680.273)" clip-path="url(#clip-path-2)">
+      <g transform="translate(-589.022 -1617.97)">
+        <path id="Icon_awesome-check-4" data-name="Icon awesome-check" d="M7.887,21.554.34,14.007a1.161,1.161,0,0,1,0-1.642l1.642-1.642a1.161,1.161,0,0,1,1.642,0l5.084,5.084L19.6,4.917a1.161,1.161,0,0,1,1.642,0l1.642,1.642a1.161,1.161,0,0,1,0,1.642L9.529,21.554A1.161,1.161,0,0,1,7.887,21.554Z" transform="translate(589.022 1613.393)" fill="#b4c000"/>
+      </g>
+      <g transform="translate(-589.022 -1416.97)">
+        <path id="Icon_awesome-check-5" data-name="Icon awesome-check" d="M7.887,21.554.34,14.007a1.161,1.161,0,0,1,0-1.642l1.642-1.642a1.161,1.161,0,0,1,1.642,0l5.084,5.084L19.6,4.917a1.161,1.161,0,0,1,1.642,0l1.642,1.642a1.161,1.161,0,0,1,0,1.642L9.529,21.554A1.161,1.161,0,0,1,7.887,21.554Z" transform="translate(589.022 1613.393)" fill="#b4c000"/>
+      </g>
+      <g transform="translate(-589.022 -1215.97)">
+        <path id="Icon_awesome-check-6" data-name="Icon awesome-check" d="M7.887,21.554.34,14.007a1.161,1.161,0,0,1,0-1.642l1.642-1.642a1.161,1.161,0,0,1,1.642,0l5.084,5.084L19.6,4.917a1.161,1.161,0,0,1,1.642,0l1.642,1.642a1.161,1.161,0,0,1,0,1.642L9.529,21.554A1.161,1.161,0,0,1,7.887,21.554Z" transform="translate(589.022 1613.393)" fill="#b4c000"/>
+      </g>
+      <g transform="translate(-589.022 -1014.97)">
+        <path id="Icon_awesome-check-7" data-name="Icon awesome-check" d="M7.887,21.554.34,14.007a1.161,1.161,0,0,1,0-1.642l1.642-1.642a1.161,1.161,0,0,1,1.642,0l5.084,5.084L19.6,4.917a1.161,1.161,0,0,1,1.642,0l1.642,1.642a1.161,1.161,0,0,1,0,1.642L9.529,21.554A1.161,1.161,0,0,1,7.887,21.554Z" transform="translate(589.022 1613.393)" fill="#b4c000"/>
+      </g>
+      <g transform="translate(-589.022 -813.97)">
+        <path id="Icon_awesome-check-8" data-name="Icon awesome-check" d="M7.887,21.554.34,14.007a1.161,1.161,0,0,1,0-1.642l1.642-1.642a1.161,1.161,0,0,1,1.642,0l5.084,5.084L19.6,4.917a1.161,1.161,0,0,1,1.642,0l1.642,1.642a1.161,1.161,0,0,1,0,1.642L9.529,21.554A1.161,1.161,0,0,1,7.887,21.554Z" transform="translate(589.022 1613.393)" fill="#b4c000"/>
+      </g>
+      <g transform="translate(-589.022 -612.97)">
+        <path id="Icon_awesome-check-9" data-name="Icon awesome-check" d="M7.887,21.554.34,14.007a1.161,1.161,0,0,1,0-1.642l1.642-1.642a1.161,1.161,0,0,1,1.642,0l5.084,5.084L19.6,4.917a1.161,1.161,0,0,1,1.642,0l1.642,1.642a1.161,1.161,0,0,1,0,1.642L9.529,21.554A1.161,1.161,0,0,1,7.887,21.554Z" transform="translate(589.022 1613.393)" fill="#b4c000"/>
+      </g>
+    </g>
+  </g>
+</svg>
