@@ -1,5 +1,5 @@
 /**
-* PHP Email Form Validation - v3.0
+* PHP Email Form Validation - v3.2
 * URL: https://bootstrapmade.com/php-email-form/
 * Author: BootstrapMade.com
 */
@@ -63,14 +63,10 @@
       }
     })
     .then(data => {
-      console.log(data);
       thisForm.querySelector('.loading').classList.remove('d-block');
       if (data.trim() == 'OK') {
         thisForm.querySelector('.sent-message').classList.add('d-block');
         thisForm.reset(); 
-        setTimeout(() => {
-          location.reload();
-        }, 1000);
       } else {
         throw new Error(data ? data : 'Form submission failed and no error message returned from: ' + action); 
       }
